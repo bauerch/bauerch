@@ -8,6 +8,7 @@ A software engineer from Karlsruhe, Germany.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0a?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-0a0a0a?style=for-the-badge&logo=git)
 
 ### Let's connect and chat!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-bauer-a0a043180/)
