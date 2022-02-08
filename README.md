@@ -6,7 +6,7 @@ A software engineer from Karlsruhe, Germany.
 ![HTML5](https://img.shields.io/badge/-HTML5-0a0a0a?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0a0a0a?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0a?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=docker)
 
 ### Let's connect and chat!
