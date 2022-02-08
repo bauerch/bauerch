@@ -1,5 +1,6 @@
-### Hello world, I'm Chris 👋
-A software engineer from Karlsruhe, Germany.
+### Hi there, I'm Chris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+I'm a software engineer from Karlsruhe, Germany formerly working in Avionics. 
+I'm a tech enthusiast who loves to learn new things.
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=python)
