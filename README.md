@@ -2,7 +2,7 @@
 A software engineer from Karlsruhe, Germany.
 
 ### Tech Stack
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
