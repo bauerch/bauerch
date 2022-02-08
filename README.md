@@ -10,5 +10,5 @@ A software engineer from Karlsruhe, Germany.
 ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=docker)
 
 ### Let's connect and chat!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Linkedin' height='26'>](https://www.linkedin.com/in/christian-bauer-a0a043180/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='XING' height='26'>](https://www.xing.com/profile/Christian_Bauer500/cv)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-bauer-a0a043180/)
+[![XING](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Christian_Bauer500/cv)
