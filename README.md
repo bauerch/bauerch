@@ -1,5 +1,5 @@
 ### Hi there, I'm Chris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-A software engineer from Karlsruhe, Germany formerly working in Avionics. 
+A software engineer from Karlsruhe, Germany. 
 I'm a tech enthusiast who loves to learn new things, currently especially in the field of data engineering.
 
 ### Tech Stack
